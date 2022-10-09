@@ -1,5 +1,6 @@
 <p align="center">
-	<img src="https://telegra.ph/file/094abb98c63d1fbac703e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+<img src="https://github.com/pemulihan2008/DitzMakers/blob/v15/image/lol.jpg" alt="DITZ BOT" width="100"/>
+
 </p>
 <h1 align="center">𝘿𝙞𝙩𝙯 𝙈𝙖𝙠𝙚𝙧𝙨</h1>
 
