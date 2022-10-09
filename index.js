@@ -1,6 +1,5 @@
 /**
-   * Create By THE JO BOT
-   * Base by Dika Ardnt
+   * Create By 𝘿𝙞𝙩𝙯 𝙈𝙖𝙠𝙚𝙧𝙨
 */
 
 require('./config')
@@ -163,12 +162,12 @@ async function startjobotz() {
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 ╭━━•›〘 SUBSCRIBE 〙
 │➳ Channel YouTube
-│➳ THE JO BOT
-│➳ https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w
+│➳ Ditz Makers々
+│➳ https://youtube.com/channel/UCRJNLP1ko2rx0j9YxKEJ8Ew
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© THE JO BOT
+© 𝘿𝙞𝙩𝙯 𝙈𝙖𝙠𝙚𝙧𝙨
 `
                   jobotz.sendMessage(anu.id, { image: { url: pp_user }, contextInfo: { mentionedJid: [num] }, caption: anunya2 })
                 }
