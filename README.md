@@ -3,9 +3,8 @@
 </p>
 <h1 align="center">𝘿𝙞𝙩𝙯 𝙈𝙖𝙠𝙚𝙧𝙨</h1>
 
-# CATATAN ( NOTE )
-Script ori - DikaArdnt
-Recode - The Jo Bot
+# CATATAN (NOTE)
+Script ori - 𝘿𝙞𝙩𝙯 𝙈𝙖𝙠𝙚𝙧𝙨
 
 Jangan dijual kontol!!!
 Gw yg capek lu yg jual yg hanya tinggal nyomot dan rename.
