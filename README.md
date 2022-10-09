@@ -32,8 +32,8 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 ## My Project
 * New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
-* WhatsApp Bot normal [`THEJO307/jo-private`](https://github.com/THEJO307/jo-private)
-* WhatsApp Bot Multi Device [`THEJO307/jo-private`](https://github.com/THEJO307/jo-private)
+* WhatsApp Bot normal [`artiilham/DitzWar`](https://github.com/artiilham/DitzWar)
+* WhatsApp Bot Multi Device [`artiilham/DitzWar`](https://github.com/artiilham/DitzWar)
 
 
 ## UNTUK PENGGUNA WINDOWS/RDP
