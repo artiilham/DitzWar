@@ -1,7 +1,7 @@
 <p align="center">
 	<img src="https://telegra.ph/file/094abb98c63d1fbac703e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">THE_JO_BOT</h1>
+<h1 align="center">𝘿𝙞𝙩𝙯 𝙈𝙖𝙠𝙚𝙧𝙨</h1>
 
 # CATATAN ( NOTE )
 Script ori - DikaArdnt
@@ -15,7 +15,7 @@ Di TQ TO nama gw jgn dihapus bangsat.
 
 Best Regards. The Jo Bot
 
-# THE_JO_BOT
+# 𝘿𝙞𝙩𝙯 𝙒𝙖𝙧
 Script WhatsApp Bot Multi Device
 
 ## NOTE
@@ -45,8 +45,8 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git https://github.com/THEJO307/jo-private
-cd jo-private
+git https://github.com/artiilham/DitzWar
+cd DitzWar
 npm install
 ```
 
@@ -66,8 +66,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/THEJO307/jo-private
-cd jo-private
+git clone https://github.com/artiilham/DitzWar
+cd DitzWar
 npm install
 ```
 
@@ -87,7 +87,7 @@ $ node .
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
-Editing Number Owner & session name in [`config.js`](https://github.com/THEJO307/jo-private/blob/master/config.js)
+Editing Number Owner & session name in [`config.js`](https://github.com/artiilham/DitzWar/blob/master/config.js)
 Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
