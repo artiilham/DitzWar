@@ -92,24 +92,14 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
 ## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`DikaArdnt`](https://github.com/DikaArdnt)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Faiz`](https://github.com/FaizBastomi)
-* [`Gimenz`](https://github.com/Gimenz)
-* [`rayy`](https://github.com/rayyreall)
-* [`Fatih Arridho`](https://github.com/FatihArridho)
-* [`zhwzein`](https://github.com/zhwzein)
-* [`CAF-ID`](https://github.com/CAF-ID)
-* [`bintang`](https://github.com/Bintangp02)
+-𝘿𝙞𝙩𝙯 𝙈𝙖𝙠𝙚𝙧𝙨
 
 ```Thanks to all who have participated in the development of this script```
 
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
-Support DikaArdnt
+Support 𝘿𝙞𝙩𝙯 𝙈𝙖𝙠𝙚𝙧𝙨
 * [`Paypal`](https://www.paypal.me/Cakhaho)
 * [`Saweria`](https://saweria.co/DikaArdnt)
 # 𝘿𝙞𝙩𝙯 𝙈𝙖𝙠𝙚𝙧𝙨
