@@ -12,7 +12,7 @@ Kalau cuma rename anak esde jg bisa.
 Rename sewajarnyalah!!!
 Di TQ TO nama gw jgn dihapus bangsat.
 
-Best Regards. The Jo Bot
+Best Regards. 𝘿𝙞𝙩𝙯 𝙈𝙖𝙠𝙚𝙧𝙨
 
 # 𝘿𝙞𝙩𝙯 𝙒𝙖𝙧
 Script WhatsApp Bot Multi Device
