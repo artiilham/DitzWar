@@ -111,4 +111,4 @@ License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 Support DikaArdnt
 * [`Paypal`](https://www.paypal.me/Cakhaho)
 * [`Saweria`](https://saweria.co/DikaArdnt)
-# botmdjo
+# 𝘿𝙞𝙩𝙯 𝙈𝙖𝙠𝙚𝙧𝙨
