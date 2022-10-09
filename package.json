@@ -1,5 +1,5 @@
 {
-  "name": "jo-bot",
+  "name": "𝘿𝙞𝙩𝙯 𝙒𝙖𝙧",
   "version": "8.5.4",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "The Jo Bot.",
+  "author": "𝘿𝙞𝙩𝙯 𝙈𝙖𝙠𝙚𝙧𝙨",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
@@ -63,10 +63,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/THEJO307/jo-private.git"
+    "url": "git+https://github.com/artiilham/DitzWar.git"
   },
   "bugs": {
-    "url": "https://github.com/THEJO307/jo-private/issues"
+    "url": "https://github.com/artiilham/DitzWar/issues"
   },
-  "homepage": "https://github.com/THEJO307/jo-private#readme"
+  "homepage": "https://github.com/artiilham/DitzWar#readme"
 }
